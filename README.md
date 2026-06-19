@@ -311,18 +311,5 @@ The model automatically retrains on startup and saves itself to `models/threat_m
 - Deploy to Vercel, Netlify, or static hosting
 - Configure API_URL for production
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-MIT License - feel free to use this project for learning or commercial purposes.
-
-## 📧 Support
-
-For questions or issues, please open an issue on GitHub.
-
----
 
 **CyberShield AI** - Making cybersecurity accessible with AI 🛡️
